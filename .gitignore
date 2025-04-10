@@ -8,3 +8,4 @@
 
 # Игнорируем файлы .localized  
 *.localized
+*.idea
